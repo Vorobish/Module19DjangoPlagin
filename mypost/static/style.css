@@ -1,0 +1,21 @@
+body {
+    background-color: #D8C2FF;
+    font-style: italic;
+    color: #3D0099;
+}
+h1 {
+    text-align: left;
+    background-color: #AFDAFC;
+    font-style: italic;
+    color: #3D0099;
+}
+h2 {
+    text-align: left;
+    background-color: #AFEEEE;
+    font-style: italic;
+    color: #3D0099;
+}
+li {
+    font-style: italic;
+    color: #3D0099;
+}
